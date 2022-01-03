@@ -1,6 +1,6 @@
 form{
     color: white;
-    border: 5px solid black;
+    border: 5px solid white;
     padding: 5rem;
 }
 .convert{
@@ -8,7 +8,7 @@ form{
     left: 30%;
 }
 h3{
-    color: black;
+    color: white;
 
 }
 .error{
