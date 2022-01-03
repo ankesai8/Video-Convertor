@@ -1,7 +1,7 @@
 
 
 .container{
-  
+  background-image: url('./assets/jeremy-yap-J39X2xX_8CQ-unsplash.jpg');
   background-size: cover;
   height: 100vh;
   display: flex;
