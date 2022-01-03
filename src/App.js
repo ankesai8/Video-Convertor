@@ -14,8 +14,8 @@ function App() {
   return (
     <>
     <div className="container">
-    <h1 className="header">Convert .MP4 to HLS .M3U8 </h1>
-    {(!show)?<Button className="new" variant="success" onClick={showForm}>Create NEW Project</Button>:null}
+    <h1 className="header">Convert Video .MP4 to HLS .M3U8 </h1>
+    {(!show)?<Button className="new" variant="primary" onClick={showForm}>Create NEW Project</Button>:null}
     <div className="form">
     {(show)?<FormVideo/>:null}
     </div>
