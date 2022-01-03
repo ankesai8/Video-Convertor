@@ -1,0 +1,23 @@
+
+
+.container{
+  background-image: url('./assets/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+
+}
+.header{
+  color: white;
+}
+.new{
+  position: relative;
+  top: 20%;
+}
+.form{
+  position: relative;
+  top: 20%;
+}

@@ -1,0 +1,22 @@
+form{
+    color: white;
+    border: 5px solid black;
+    padding: 5rem;
+}
+.convert{
+    position: relative;
+    left: 30%;
+}
+h3{
+    color: black;
+
+}
+.error{
+    color: rgb(90, 3, 3);
+    font-weight: 600;
+}
+.alert
+{
+    color: rgb(3, 1, 29);
+    font-weight: 600;
+}
